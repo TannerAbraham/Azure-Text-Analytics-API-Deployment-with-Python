@@ -20,11 +20,11 @@ This project provides a FastAPI-based interface to interact with **Azure Cogniti
 
 ## 🛠️ Tech Stack
 
-- **FastAPI** – Web framework for building APIs
-- **Azure Cognitive Services** – Cloud-based NLP
-- **uvicorn + gunicorn** – ASGI servers for production
-- **aiohttp** – Asynchronous HTTP client
-- **pydantic** – Data validation and serialization
+- FastAPI – Web framework for building APIs
+- Azure Cognitive Services – Cloud-based NLP
+- uvicorn + gunicorn – ASGI servers for production
+- aiohttp – Asynchronous HTTP client
+- pydantic – Data validation and serialization
 
 ---
 
