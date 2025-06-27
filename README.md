@@ -38,14 +38,14 @@ This project provides a FastAPI-based interface to interact with **Azure Cogniti
 ### Installation
 
 1. Clone the repo:
-   ```bash
+   ```
    git clone https://github.com/yourusername/azure-text-analysis-api.git
    cd azure-text-analysis-api
 ````
 
 2. Create and activate a virtual environment:
 
-   ```bash
+   ```
    python -m venv venv
    source venv/bin/activate  # or venv\Scripts\activate on Windows
    ```
