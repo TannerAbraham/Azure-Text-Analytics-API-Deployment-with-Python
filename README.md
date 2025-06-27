@@ -1,4 +1,4 @@
-Here is a GitHub `README.md` file tailored for your **Azure Cognitive Services Text Analysis API project using FastAPI in Python**:
+Azure Cognitive Services Text Analysis API project using FastAPI in Python
 
 ---
 
