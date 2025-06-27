@@ -111,7 +111,7 @@ POST /analyze
 ### Run with Gunicorn (for production):
 
 ```
-main:app -k uvicorn.workers.UvicornWorker
+gunicorn main:app -k uvicorn.workers.UvicornWorker
 ```
 
 ---
