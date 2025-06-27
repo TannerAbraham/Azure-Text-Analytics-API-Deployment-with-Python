@@ -119,7 +119,7 @@ POST /analyze
 ### Run with Gunicorn (for production):
 
 ```bash
-gunicorn main:app -k uvicorn.workers.UvicornWorker
+ main:app -k uvicorn.workers.UvicornWorker
 ```
 
 ---
